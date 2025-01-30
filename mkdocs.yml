@@ -1,0 +1,10 @@
+site_name: MKDocs Site
+site_url: https://nkuranov.github.io/mkdocs/
+theme:
+  name: material
+site_author: Nikolay Kuranov
+copyright: Nikolay Kuranov, 2025
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
