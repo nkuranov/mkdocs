@@ -14,9 +14,7 @@ theme:
     - content.tabs.link
 nav:
   - "Главная": index.md
-  - "Опыт работы": experience.md
-  - "Навыки": skills.md
-  - "Образование": education.md
+  - "Опыт работы и навыки": experience.md
   - "Контакты": contacts.md
 
 extra:
