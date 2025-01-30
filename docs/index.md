@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Куранов Николай Михайлович
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Jira Administrator**  
+📍 Москва, м. Аэропорт  
+📅 Родился 2 апреля 1999  
+📧 [nmkuranov@gmail.com](mailto:nmkuranov@gmail.com)  
+📞 +7 (995) 569-1999  
+📨 [Telegram: @Atlassian_engineer](https://t.me/Atlassian_engineer)
 
-## Commands
+## О себе
+✅ Опыт развертывания, миграции и администрирования Jira, Confluence, Bitbucket  
+✅ Автоматизация процессов и настройка DevOps-инфраструктуры  
+✅ Работаю с Docker, Kubernetes, Linux  
+✅ Перевожу компании с облачных решений **Cloud → Data Center**  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+🚀 Готов помочь вашей компании настроить и оптимизировать Jira "под ключ"!  

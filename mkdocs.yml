@@ -1,8 +1,32 @@
-site_name: MKDocs Site
+site_name: "Резюме Куранов Николай"
 site_url: https://nkuranov.github.io/mkdocs/
 theme:
   name: material
-site_author: Nikolay Kuranov
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+nav:
+  - "Главная": index.md
+  - "Опыт работы": experience.md
+  - "Навыки": skills.md
+  - "Образование": education.md
+  - "Контакты": contacts.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/Atlassian_engineer
+    - icon: fontawesome/solid/envelope
+      link: mailto:nmkuranov@gmail.com
+
+site_author: Николай Куранов
 copyright: Nikolay Kuranov, 2025
 markdown_extensions:
   - admonition
